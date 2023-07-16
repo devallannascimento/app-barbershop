@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
                     navegarParaHome(nome)
                 }
             }
-
         }
 
     }
